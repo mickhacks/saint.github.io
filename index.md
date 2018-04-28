@@ -11,9 +11,6 @@ This software is invite-only. On this website you will only see a sneekpeek
 
 This software is very stable and will furfill all your wishes
 
-```markdown
-
-
 # Advanced keylogger
 
 `This keylogger is stored in a .docx, doc, exe or pdf file. When it gets executed it will create a registry key in the victims PC. The registry key isn't connected to the keylogger itself and that is the thing that makes it so powerfull. None of the popular virus scanners will detect the virus. So the keylogger will stay running forever. For example: 
@@ -48,4 +45,3 @@ This cheat has never been detected because we make a private build for everyone 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
