@@ -51,3 +51,6 @@ This script is written in batch and is for all the lazy people out here. This sc
 
 # Fortnite cheat
 `DETECTED will be updated soon`
+
+
+# © The unnamed (S)aint 2018
