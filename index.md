@@ -2,14 +2,21 @@
 
 We develop grey hat software.
 
-## NOTE:
+### NOTE:
 
 This software is invite-only. On this website you will only see a sneekpeek
 ![Image](https://www.franciscanmedia.org/wp-content/uploads/2015/10/SOD-1024-SaintAnthonyMaryClaret-790x480.jpg)
 
-### Software
+# Software
 
 This software is very stable and will furfill all your wishes
+
+### Pricing
+1. Advanced keylogger `$50,00` lifetime acces
+2. Private CSGO cheat `$30,00` 3 months
+3. IG bot `$10,00` 1 month
+4. Kali lazy script `FREE open source`
+5. Fortnite cheat `$19,99` 1 month
 
 # Advanced keylogger
 
@@ -38,10 +45,9 @@ This smart bot is written in python programming language and is using the API of
 
 # Kali lazy script
 
+This script is written in batch and is for all the lazy people out here. This script will run in the command prompt in kali linux 2018.1 with rolling distrubutials installed. This script can do all the basic stuff you normaly do in the command prompt but now in one click
+
+![Image](https://camo.githubusercontent.com/3de3750dcd7a81720c855a045dbbf1f6e723a105/68747470733a2f2f692e696d6775722e636f6d2f5167544c4b78522e6a7067)
+
 # Fortnite cheat
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+`DETECTED will be updated soon`
