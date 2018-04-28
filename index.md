@@ -27,7 +27,7 @@ This keylogger is stored in a .docx, doc, exe or pdf file. When it gets executed
 4. After every 100 key strokes there will be send an email to the sender of the keylogger
 5. The email contains a screenshot of the display at that moment and all pressed keystrokes
 
-![Image](https://i.ytimg.com/vi/ScOIrpGKp_E/maxresdefault.jpg)
+![Image](https://i.ytimg.com/vi/MjTZc5cGYOY/maxresdefault.jpg)
 
 # Private CSGO cheat
 
