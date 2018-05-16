@@ -34,7 +34,7 @@ This keylogger is stored in a .docx, doc, exe or pdf file. When it gets executed
 This cheat is coded in Microsoft visual studio using a programming language named C++ and Visual basic script.
 This cheat has never been detected because we make a private build for everyone that buys the cheat. This cheat coded from scratch with some help of "@smef.pw". The launch program itself is created with VBS and is an executable. The executable injects a .DLL file into CSGO.exe and from there a unique and beautifull GUI will open that has plenty of options in it. This cheat will defeat Aimware.net users easily and is very stable.
 
-![Image](https://smef.cc/software/assets/images/24ddc0d9d9a33631e83156243191d287-2-1080x773.png)
+![Image](https://i.ytimg.com/vi/F6Os176B3ho/maxresdefault.jpg)
 
 
 # IG bot
